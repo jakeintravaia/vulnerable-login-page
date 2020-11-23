@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=iW0B9NTId2g
 
 2. Once you've installed PHP7 on your computer and added the folder to your PATH, launch Command Prompt
 
-3. Once in CMD, navigate to wherever you extracted the folder to using the pwd, ls, and cd commands
+3. Once in CMD, navigate to wherever you extracted the folder to using the <b>pwd</b>, ls, and cd commands
 
 4. When you open up the LoginPage folder, type the command "php -S localhost:8000" (without quotations)
 to start a simple PHP server
