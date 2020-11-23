@@ -1,4 +1,4 @@
-# httplogin
+# Login Page
 A simple HTML/CSS/PHP login page for practice with wireshark HTTP packet sniffing
 
 # Instructions
