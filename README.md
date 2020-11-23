@@ -15,7 +15,7 @@ to start a simple PHP server
 
 5. Open your preferred browser and navigate to localhost:8000
 
-6. From here you'll be taken to an unsecured http login page, the correct credentials are as follows:
+6. From here you'll be taken to an unsecured http login page, you can now login using the provided credentials.
 
 # Credentials
 
