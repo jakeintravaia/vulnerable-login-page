@@ -20,6 +20,8 @@ to start a simple PHP server
 
 6. From here you'll be taken to an unsecured http login page, you can now login using the provided credentials.
 
+7. Open up wireshark and try to intercept the raw login data that is sent over the network!
+
 # Credentials
 
 <b>Username:</b> admin
