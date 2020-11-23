@@ -24,6 +24,6 @@ to start a simple PHP server
 
 # Credentials
 
-<b>Username:</b> <spoiler>admin</spoiler>
+<b>Username:</b> <summary>admin</summary>
 
-<b>Password:</b> <spoiler>password</spoiler>
+<b>Password:</b> <summary>password</summary>
