@@ -1,5 +1,8 @@
-# Login Page
-A simple HTML/CSS/PHP login page for practice with wireshark HTTP packet sniffing
+# Vulnerable Login Page
+A simple HTML/CSS/PHP login page for practice with wireshark HTTP packet sniffing.
+
+# Objective
+The information security company "SecureIt" has quite a large flaw in its website - there is no SSL Certificate! Use wireshark to sniff HTTP requests and find the raw login data SecureIt's website is sending over the network.
 
 # Instructions
 1. To run a server, you're going to need to install PHP7 on your computer, here is a tutorial to follow:
