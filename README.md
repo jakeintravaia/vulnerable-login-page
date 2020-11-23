@@ -19,6 +19,6 @@ to start a simple PHP server
 
 # Credentials
 
-Username: admin
+<b>Username:</b> admin
 
-Password: password
+<b>Password:</b> password
