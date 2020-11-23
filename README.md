@@ -17,6 +17,8 @@ to start a simple PHP server
 
 6. From here you'll be taken to an unsecured http login page, the correct credentials are as follows:
 
+# Credentials
+
 Username: admin
 
 Password: password
