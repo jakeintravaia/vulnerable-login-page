@@ -23,7 +23,8 @@ to start a simple PHP server
 7. Open up wireshark and try to intercept the raw login data that is sent over the network!
 
 # Credentials
-
+<details>
 <b>Username:</b> <summary>admin</summary>
 
 <b>Password:</b> <summary>password</summary>
+</details>
