@@ -22,6 +22,15 @@ to start a simple PHP server
 
 7. Open up wireshark and try to intercept the raw login data that is sent over the network!
 
+#### Docker
+1. simply run with docker and docker-compose
+requirements: Docker and docker-compose 
+
+```bash
+docker-compose up -d
+```
+2. and Open your preferred browser and navigate to localhost:8000
+
 # Credentials
 <b>Username:</b> admin
 
