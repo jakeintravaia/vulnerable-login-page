@@ -29,6 +29,8 @@ requirements: Docker and docker-compose
 ```bash
 docker-compose up -d
 ```
+2. and Open your preferred browser and navigate to localhost:8000
+
 # Credentials
 <b>Username:</b> admin
 
